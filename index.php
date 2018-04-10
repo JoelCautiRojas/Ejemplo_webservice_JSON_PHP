@@ -26,7 +26,7 @@
 		)
 	);
 
-	var_dump($responseData);
+	echo json_encode($responseData);
 
 
  ?>
